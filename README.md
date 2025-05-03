@@ -46,15 +46,6 @@ FLOTEX/
 | YOLOv8   | 86.4%   | 88.9%     | 83.2%  |
 | RF-DETR  | 84.7%   | 85.3%     | 81.6%  |
 
-## 🚀 How to Run
-
-
-## 🧪 Model Performance
-
-| Model    | mAP@0.5 | Precision | Recall |
-|----------|---------|-----------|--------|
-| YOLOv8   | 86.4%   | 88.9%     | 83.2%  |
-| RF-DETR  | 84.7%   | 85.3%     | 81.6%  |
 
 ## 🚀 How to Run
 
