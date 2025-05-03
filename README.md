@@ -53,30 +53,17 @@ FLOTEX/
    ```bash
    git clone https://github.com/yourusername/flotex-ai.git
 
-## 🧪 Model Performance
-
-| Model    | mAP@0.5 | Precision | Recall |
-|----------|---------|-----------|--------|
-| YOLOv8   | 86.4%   | 88.9%     | 83.2%  |
-| RF-DETR  | 84.7%   | 85.3%     | 81.6%  |
-
-## 🚀 How to Run
-
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/yourusername/flotex-ai.git
-
 2. **Install Dependencies:**
    ```bash
-pip install -r requirements.txt
+   pip install -r requirements.txt
 
 3. **Run Inference:**
    ```bash
-python detect.py --weights weights/yolov8.pt --source test_images/
+   python detect.py --weights weights/yolov8.pt --source test_images/
 
 4. **Launch Web App:**
    ```bash   
-python app/app.py
+   python app/app.py
 
 <h2>📲 Scan for Live Demo / Docs</h2>
 <p>Use the QR code below to access the project demo or full deployment guide:</p>
